@@ -21,3 +21,5 @@ console.log(myArr)
 // .unshift()  * Addeed frist item in a array 
 myArr.unshift("virus", "guru") // Directly store in main array from left
 console.log(myArr)
+//******note Using .delete() not good practice because it creates undefined hole in array.
+
