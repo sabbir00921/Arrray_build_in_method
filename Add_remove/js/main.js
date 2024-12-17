@@ -1,3 +1,5 @@
+// Add and delete in array
+
 //.join()  * replace with comma in a array.
 const myArr = ["sabbir", "hossain", "gazipur", "Diu"]
 let newArray = myArr.join("_")
